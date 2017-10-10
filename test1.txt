@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 0861-578E
-
- Directory of C:\Users\retom\Desktop\myproject
-
-10/09/2017  08:31 PM    <DIR>          .
-10/09/2017  08:31 PM    <DIR>          ..
-10/09/2017  08:31 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  825,288,200,192 bytes free
+This is a test file
