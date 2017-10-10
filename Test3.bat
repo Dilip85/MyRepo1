@@ -1,0 +1,1 @@
+cd C:\Users\retom\Desktop & DIR
