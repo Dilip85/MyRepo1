@@ -1,1 +1,1 @@
-cd C:\Users\retom\Desktop & DIR
+cd C:\Users\retom\Desktop
